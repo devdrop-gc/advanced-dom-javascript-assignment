@@ -3,6 +3,8 @@
 This repository contains two advanced DOM manipulation projects built with **HTML**, **CSS**, and **Vanilla JavaScript**.  
 Both projects demonstrate real-time interactivity, data persistence using `localStorage`, and event delegation.
 
+[![View Live](https://img.shields.io/badge/View-Live-blue?style=for-the-badge&logo=github)](https://devdrop-gc.github.io/advanced-dom-javascript-assignment/)
+
 ---
 
 ## 📁 Project Structure
